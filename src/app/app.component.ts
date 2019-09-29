@@ -7,7 +7,7 @@ import { HttpClient, HttpErrorResponse } from '@angular/common/http';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent implements OnInit {
-  title = 'angson';
+  title = 'JSON Data calling';
   constructor(private httpService: HttpClient) { }
   arrBirds: string [];
 
