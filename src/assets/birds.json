@@ -2,17 +2,17 @@
     "ID": "001",
    "Name": "Eurasian Collared-Dove",
     "Type": "Dove",
-    "Scientific Name": "Streptopelia"
+    "Scientific": "Streptopelia"
 },
 {
     "ID": "002",
     "Name": "Bald Eagle",
     "Type": "Hawk",
-    "Scientific Name": "Haliaeetus leucocephalus" 
+    "Scientific": "Haliaeetus leucocephalus" 
 },
 {
     "ID": "003",
     "Name": "Cooper's Hawk",
     "Type": "Hawk",
-    "Scientific Name": "Accipiter cooperii" 
+    "Scientific": "Accipiter cooperii" 
 }]
